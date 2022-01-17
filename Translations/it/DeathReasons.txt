@@ -1,10 +1,10 @@
-È il cadavere di <b>[user]</b> - lui era un/a [class]!\n\Causa della morte: [cause]
+È il cadavere di <b>[user]</b> - era un/a [class]!\nCausa della morte: [cause]
 Ricontenuto.
-Polverizzato dalla Alpha Warhead.
+Polverizzato dalla Testata nucleare.
 Arresto improvviso dei segni di vita. Nessun chiaro trauma.
 Causa della morte incerta.
 Gravi ustioni elettriche.
-La mancanza di ossigeno ha causato la morte di asfissia.
+La mancanza di ossigeno ha causato la morte da asfissia.
 Grave perdita di sangue causata da ferite profonde.
 Ti sei dissanguato.
 Gambe e piedi frantumati suggeriscono un trauma fatale causato da una caduta.
@@ -21,7 +21,7 @@ Schegge e gravi ustioni causate da un'esplosione.
 Sei stato ucciso da un'esplosione che si trovava nelle immediate vicinanze.
 Lacerazioni massicce ed eccessiva perdita di sangue.
 Frattura cervicale alla base del cranio.
-Grandi, profondi segni di morso sul corpo può essere osservato.
+Grandi e profonde morsi possono essere osservate sul corpo.
 Trauma contundente e piccoli graffi sono presenti sul corpo.
 Ferite da proiettili [ammotype].
 Trauma contundente fatale; il corpo è gravemente mutilato e polverizzato.
